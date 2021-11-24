@@ -1,2 +1,5 @@
 to jest pierwszy plik robiony w domu
 hihi
+
+a tu jest po zmianach
+
